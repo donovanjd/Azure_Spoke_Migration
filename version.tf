@@ -22,7 +22,7 @@ provider "azurerm" {
 }
 
 provider "aviatrix" {
-  controller_ip = "13.237.101.86"
+  controller_ip = ""
   username      = "admin"
-  password      = "4v98Wz#iR&tt"
+  password      = ""
 }
